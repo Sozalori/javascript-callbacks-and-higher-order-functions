@@ -38,6 +38,6 @@ console.log(scoreRoom3Result); //false
 // checkGradeOver70
 
 2. ใน Exercise นี้ ฟังก์ชันใดเป็น Higher Order Function?
-// 
+//  atLeastFive
 ====================================
 */
